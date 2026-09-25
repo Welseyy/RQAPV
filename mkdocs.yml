@@ -23,8 +23,8 @@ theme:
       toggle:
         icon: material/weather-sunny
         name: Switch to system preference
-  favicon: img/logoTedeapolis.png
-  logo: img/logoTedeapolis.webp
+  favicon: img/logoRealistiq.png
+  logo: img/logoRealistiq.webp
   custom_dir: docs/overrides
   language: nl
   features:
