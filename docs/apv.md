@@ -1,4 +1,4 @@
-# Algemene Plaatselijke Verordening Realistiqpolis
+# Algemene Plaatselijke Verordening Realistiq
 
 ## Wetstechnische informatie
 
