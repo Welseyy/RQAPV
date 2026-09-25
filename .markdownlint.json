@@ -1,0 +1,6 @@
+{
+    "default": true,
+    "line_length": false,
+    "code-block-style": { "style": "fenced" },
+    "ul-indent": 4
+}
