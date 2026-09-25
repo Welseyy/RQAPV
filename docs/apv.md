@@ -2,7 +2,7 @@
 
 ## Wetstechnische informatie
 
-### Wet van 29 november 2024
+### Wet van 25 september 2026
 
 Wij, de Hoge Raad der Realistiq, bij de gratie Gods, enz., enz., enz.
 
