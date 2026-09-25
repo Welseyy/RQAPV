@@ -1,8 +1,8 @@
-# Belastingen binnen Tedeapolis
+# Belastingen binnen Realistiq
 
 ## Wegenbelasting
 
-Binnen Tedeapolis wordt motorvoertuigenbelasting geïnd over *motor*voertuigen die in je normale garage staan. Voor deze belasting worden dienstvoertuigen uitgesloten. De belasting wordt automatisch geïnd; u hoeft hiervoor niks te doen. Wanneer u meer dan 4 dagen niet meer in de stad bent geweest, hoeft u niet te voldoen aan deze belasting.
+Binnen Realistiq wordt motorvoertuigenbelasting geïnd over *motor*voertuigen die in je normale garage staan. Voor deze belasting worden dienstvoertuigen uitgesloten. De belasting wordt automatisch geïnd; u hoeft hiervoor niks te doen. Wanneer u meer dan 4 dagen niet meer in de stad bent geweest, hoeft u niet te voldoen aan deze belasting.
 
 De belasting wordt geschaald geïnd. Dit betekent dat hoe meer voertuigen je hebt, hoe meer belasting je betaalt. De genoemde kosten hieronder zijn dan ook indicatief.
 Fietsen zijn uitgesloten van belasting. Alle overige voertuigen met een motor vallen onder deze regeling.

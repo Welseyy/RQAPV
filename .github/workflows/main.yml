@@ -27,7 +27,7 @@ jobs:
       - run: pip install -r requirements.txt
       - run: mkdocs gh-deploy --force
       - name: Discord Commits
-        uses: Tedeapolis/discord-commits@v1.2.5
+        uses: Realistiq/discord-commits@v1.2.5
         env:
           WEBHOOK: ${{ secrets.DISCORD_WEBHOOK }}
         if: "${{ env.WEBHOOK != '' }}"

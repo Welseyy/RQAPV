@@ -1,12 +1,12 @@
-# Wetboek Tedeapolis
+# Wetboek Realistiq
 
 ## Wetstechnische informatie
 
 | | |
 | --- | --- |
-| Overheidsorganisatie | Hoge Raad Tedeapolis |
-| Officiële naam | Algemeen Wetboek Tedeapolis |
-| Citeertitel | Wetboek Tedeapolis |
+| Overheidsorganisatie | Hoge Raad Realistiq |
+| Officiële naam | Algemeen Wetboek Realistiq |
+| Citeertitel | Wetboek Realistiq |
 | Vastgesteld door | De Hoge Raad |
 | Onderwerp | Openbare orde en veiligheid |
 
@@ -14,15 +14,15 @@
 
 ### A1 - Reikwijdte
 
-1. Het Wetboek Tedeapolis (verder aangeduid als WTDA) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
-2. Het WTDA heeft betrekking op het vaste land, de gemeente, en de stad Tedeapolis.
-3. Het WTDA is nauw verweven met de Algemene Plaatselijke Verordening Tedeapolis (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
+1. Het Wetboek Realistiq (verder aangeduid als WRQ) is leidend voor alle beschreven gevallen, waarbij als aanvulling het Nederlands Recht van toepassing is.
+2. Het WRQ heeft betrekking op het vaste land, de gemeente, en de stad Realistiq.
+3. Het WRQ is nauw verweven met de Algemene Plaatselijke Verordening Realistiq (APV). De APV dient echter als een indicerend kader voor eventuele bestraffing in-game (“in RP”) en is verder bedoeld voor het afhandelen van straffen buiten de RP om.
 
 ### A2 - Geldigheid
 
 1. Bij verandering van een wetgeving na het tijdstip waarop het feit begaan is, wordt voor de verdachte de meest gunstigste bepalingen toegepast.
 2. Het is voor een staff-lid niet toegestaan om mee te beslissen over een zaak die over hunzelf, vrienden en/of familie gaat. Dit om te versterken dat een zaak op een eerlijke en rechtvaardige manier behandeld wordt.
-3. Minderjarigen worden binnen Tedeapolis op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Tedeapolis niet van toepassing.
+3. Minderjarigen worden binnen Realistiq op dezelfde manier behandeld als volwassenen. Alle bepalingen, straffen en dergelijke zijn ook van toepassing op hen. Minderjarigen hebben dezelfde rechten en plichten als volwassenen. Het jeugdstrafrecht is in Realistiq niet van toepassing.
 
 ### A3 - Verjaring van het strafbaar feit
 
@@ -92,7 +92,7 @@
         In beide gevallen zal het voertuig worden vernietigd of verkocht. Voertuigen die langer dan veertien (14) dagen in de opslag staan, worden eveneens vernietigd of verkocht, tenzij bezwaar is aangetekend via het klachtenformulier van Politie.
 
 3. Geldige redenen voor inbeslagname zijn:
-    1. Plegen van een strafbaar feit uit het wetboek van Tedeapolis waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
+    1. Plegen van een strafbaar feit uit het wetboek van Realistiq waarbij het goed direct of indirect betrokken is, met uitzondering van fout parkeren en snelheidsovertredingen zoals beschreven in lid 4;  
     2. Plegen van een misdrijf uit de Nederlandse wetgeving waarbij het goed direct of indirect betrokken is;  
     3. Niet stoppen voor een stopteken gegeven door middel van een politietransparant of rode lamp;  
     4. Niet voldoen aan een (verkeers)aanwijzing van een bevoegd en als zodanig kenbare opsporingsambtenaar;  
@@ -1403,4 +1403,4 @@ Een persoon is schuldig wanneer deze een beschermd dier voorhanden heeft, vervoe
 10. Onder stemherkenning wordt verstaan het door een getuige of opsporingsambtenaar herkennen van een persoon aan diens stem, op grond van eerdere eigen waarneming van die stem.
 
 ---------------------
-*Wetboek Tedeapolis is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Tedeapolis”, Dit wetboek wordt beheerd door het ministerie, te Tedeapolis.*
+*Wetboek Realistiq is opgesteld uit naam van de Hoge Raad, bedoeld voor de gemeente en de stad “Realistiq”, Dit wetboek wordt beheerd door het ministerie, te Realistiq.*
