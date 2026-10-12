@@ -224,8 +224,10 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 12 - Cheats**
 
 1. Het gebruik van software of hulpmiddelen van derden (cheats) om voordeel te behalen in het spel is verboden.
-2. Dit artikel geldt ook voor de Discord-client. Het gebruik van bijvoorbeeld **BetterDiscord** of soortgelijke clients is niet toegestaan.
-3. Stretched resolutie mag ook niet. Hiermee pak je ook een oneerlijk voordeel.
+2. **Voorbeelden van Cheats:**
+    * Mod menu software.
+    * Crosshairs.
+    * Fivem Mod RPF files die je een oneerlijk voordeel geef tegenover andere spelers (zoals geen bosjes, bullet penetration, etc.).
 
 → **Sanctie:** Categorie 7.
 
