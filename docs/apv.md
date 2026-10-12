@@ -45,13 +45,13 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Realistiq, wordt hierbij over
 ### **A-3 - Strafbepaling**
 
 1. De straffen zijn onderverdeeld in de volgende categorieën:
-    * **Categorie 1:** Een waarschuwing + 100 uur taakstraf
+    * **Categorie 1:** Een waarschuwing + 50 uur taakstraf
       *(Maximaal 3 waarschuwingen in 1 maand; hierna volgt een verzwaring naar categorie 2.)*
-    * **Categorie 2:** Een ban van 1 dag + 50 uur taakstraf, of een waarschuwing met 150 t/m 250 uur taakstraf.
-    * **Categorie 3:** Een ban van 2 dagen + 50 uur taakstraf, of een waarschuwing met 250 t/m 350 uur taakstraf.
-    * **Categorie 4:** Een ban van 3 dagen + 50 uur taakstraf, of een waarschuwing met 350 t/m 450 uur taakstraf.
-    * **Categorie 5:** Een ban van 1 week + 50 uur taakstraf, of een ban van 3 t/m 7 dagen met 100 t/m 200 uur taakstraf.
-    * **Categorie 6:** Een ban van 1 maand + 50 uur taakstraf, of een ban van 2 t/m 4 weken met 200 t/m 300 uur taakstraf.
+    * **Categorie 2:** Een ban van 1 dag.
+    * **Categorie 3:** Een ban van 2 dagen.
+    * **Categorie 4:** Een ban van 3 dagen.
+    * **Categorie 5:** Een ban van 1 week.
+    * **Categorie 6:** Een ban van 1 maand.
     * **Categorie 7:** Permanente ban
     * **Categorie 8:** Account wipe
 
