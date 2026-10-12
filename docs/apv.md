@@ -214,7 +214,8 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 1. Het moedwillig misbruiken van bugs en/of exploits om voordeel te behalen of in-game functionaliteiten te omzeilen, is verboden. Dit geldt ongeacht de gebruikte middelen.
 2. Het opzettelijk annuleren van een uitzendbureaujob met als doel een gunstigere route of opdracht te verkrijgen, wordt eveneens beschouwd als exploit.
 3. Het moedwillig een voertuig in het water rijden met als doel om wapens, goederen of andere bezittingen veilig te stellen en/of te voorkomen dat andere spelers deze kunnen bemachtigen, wordt eveneens beschouwd als exploit.
-    → **Sanctie:** Categorie 5.
+* → **Sanctie:** Categorie 5.
+4. Bij het overtreden van lid 1, 2 of 3 zullen alle verkregen items/geld moeten worden ingeleverd bij een staflid.
 
 → **Sanctie:** Categorie 6.
 
