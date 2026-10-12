@@ -226,7 +226,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 2. **Voorbeelden van Cheats:**
     * Mod menu software.
     * Crosshairs.
-    * Fivem Mod RPF files die je een oneerlijk voordeel geef tegenover andere spelers (zoals geen bosjes, bullet penetration, etc.).
+    * Fivem Mod RPF files die je een oneerlijk voordeel geeft tegenover andere spelers (zoals geen bosjes, bullet penetration, etc.).
 
 → **Sanctie:** Categorie 7.
 
