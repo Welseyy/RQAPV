@@ -137,6 +137,9 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Het onnodig mishandelen, vermoorden, uitlokken en/of lastigvallen van anderen zonder intentie tot roleplay is verboden. Dit geldt ook voor dieren.
 
+1.1. Enkele voorbeelden van RDM:
+    * Hij/zij die iemand van het leven beroofd enkel omdat deze persoon een grote mond heeft of iemand uitdaagt zal gestraft worden volgens de 1e categorie.
+
 → **Sanctie:** Categorie 1.
 
 ---
