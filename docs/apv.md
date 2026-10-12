@@ -74,9 +74,9 @@ Het Wetboek van Strafrecht, specifiek bedoeld voor Realistiq, wordt hierbij over
 
 1. Het is verboden om roleplay van zeer slechte kwaliteit uit te spelen of gedrag te vertonen dat de roleplay verstoort.
 
-Enkele voorbeelden van slechte roleplay:
-→ Als iemand een vriend van je vastgepakt heeft met een pistool tegen zijn/haar hoofd werk je mee aan de situatie, je mag deze persoon enkel van achter aanvallen met een vuurwapen. Overtreed je deze regel word je bestraft volgens de 1e categorie.
-→ Het is niet toegestaan voor de politie om criminele locaties te campen/bezoeken, dit mag enkel bij een geplande inval, een politie melding of via een achtervolging.
+1.1. Enkele voorbeelden van slechte roleplay:
+    * Als iemand een vriend van je vastgepakt heeft met een pistool tegen zijn/haar hoofd werk je mee aan de situatie, je mag deze persoon enkel van achter aanvallen met een vuurwapen. Overtreed je deze regel word je bestraft volgens de 1e categorie.
+    * Het is niet toegestaan voor de politie om criminele locaties te campen/bezoeken, dit mag enkel bij een geplande inval, een politie melding of via een achtervolging.
 
    → **Sanctie:** Categorie 1.
 
