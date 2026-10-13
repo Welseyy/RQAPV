@@ -338,10 +338,10 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 5. Schieten wapen wapens en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
-    * Hetzelfde voertuig met de juiste kleur: 15 minuten;
-    * Zelfde kenteken: 1 uur;
-    * Persoonsherkenning: 2 uren;
-    * Uiterlijke herkenning: 30 min
+    * Hetzelfde voertuig met de juiste kleur: 1 uur;
+    * Uiterlijke herkenning: 1 uur;
+    * Zelfde kenteken: 24 uur;
+    * Persoonsherkenning: 24 uur;
 8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop of animatie zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 9. Het kopen van goederen/items bij Ammunation wordt niet beschouwd als een illegale activiteit. Het is niet toegestaan dit als aanleiding te gebruiken voor een overval of controle.
 
