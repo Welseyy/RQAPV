@@ -1,15 +1,5 @@
 # Wetboek Realistiq
 
-## Wetstechnische informatie
-
-| | |
-| --- | --- |
-| Overheidsorganisatie | Hoge Raad Realistiq |
-| Officiële naam | Algemeen Wetboek Realistiq |
-| Citeertitel | Wetboek Realistiq |
-| Vastgesteld door | De Hoge Raad |
-| Onderwerp | Openbare orde en veiligheid |
-
 ## Algemene Bepalingen
 
 ### A1 - Reikwijdte
@@ -234,9 +224,9 @@
 
 |                             | *Celstraf* | *Taakstraf* | *Boete*   |
 |-----------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**     | 31 maanden |             | € 15000,- |
-| **Tweede Veroordeling**     | 61 maanden |             | € 18750,- |
-| **Meerdere Veroordelingen** | 92 maanden |             | € 22500,- |
+| **Eerste Veroordeling**     | 30 maanden |             | € 15000,- |
+| **Tweede Veroordeling**     | 45 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen** | 60 maanden |             | € 22500,- |
 
 ### Artikel I-4 Afpersing (317 SR)
 
@@ -288,9 +278,9 @@
 
 |                             | *Celstraf*  | *Taakstraf* | *Boete*   |
 |-----------------------------|-------------|-------------|-----------|
-| **Eerste Veroordeling**     | 27 maanden  |             | € 15000,- |
-| **Tweede Veroordeling**     | 54 maanden  |             | € 20000,- |
-| **Meerdere Veroordelingen** | 108 maanden |             | € 25000,- |
+| **Eerste Veroordeling**     | 25 maanden  |             | € 15000,- |
+| **Tweede Veroordeling**     | 45 maanden  |             | € 20000,- |
+| **Meerdere Veroordelingen** | 65 maanden |             | € 25000,- |
 
 ### Artikel I-9 Geldige verklaring herkomst contanten (321 SR)
 
@@ -322,9 +312,9 @@
 
 |                             | *Celstraf* | *Taakstraf* | *Boete*   |
 |-----------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**     | 46 maanden |             | € 7500,-  |
-| **Tweede Veroordeling**     | 54 maanden |             | € 11250,- |
-| **Meerdere Veroordelingen** | 61 maanden |             | € 15000,- |
+| **Eerste Veroordeling**     | 45 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**     | 55 maanden |             | € 11250,- |
+| **Meerdere Veroordelingen** | 60 maanden |             | € 15000,- |
 
 ### Artikel II-3 Bedreiging (285 SR)
 
@@ -345,9 +335,9 @@
 
 |                             | *Celstraf* | *Taakstraf* | *Boete*   |
 |-----------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**     | 61 maanden |             | € 11250,- |
-| **Tweede Veroordeling**     | 69 maanden |             | € 15000,- |
-| **Meerdere Veroordelingen** | 77 maanden |             | € 18750,- |
+| **Eerste Veroordeling**     | 40 maanden |             | € 11250,- |
+| **Tweede Veroordeling**     | 50 maanden |             | € 15000,- |
+| **Meerdere Veroordelingen** | 60 maanden |             | € 18750,- |
 
 ### Artikel II-5 Moord (289 SR)
 
@@ -357,9 +347,9 @@
 
 |                             | *Celstraf* | *Taakstraf* | *Boete*   |
 |-----------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**     | 77 maanden |             | € 15000,- |
-| **Tweede Veroordeling**     | 84 maanden |             | € 18750,- |
-| **Meerdere Veroordelingen** | 92 maanden |             | € 22500,- |
+| **Eerste Veroordeling**     | 50 maanden |             | € 15000,- |
+| **Tweede Veroordeling**     | 60 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen** | 70 maanden |             | € 22500,- |
 
 ### Artikel II-6 Eenvoudige mishandeling (300 SR)
 
@@ -868,15 +858,15 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`Categorie 1`***           | *Celstraf* | *Taakstraf* | *boete*   |
 |-------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**       | 45 maanden |             | € 7500,-  |
-| **Tweede Veroordeling**       | 63 maanden |             | € 9375,-  |
-| **Meerdere Veroordelingen**   | 81 maanden |             | € 11250,- |
+| **Eerste Veroordeling**       | 30 maanden |             | € 7500,-  |
+| **Tweede Veroordeling**       | 40 maanden |             | € 9375,-  |
+| **Meerdere Veroordelingen**   | 60 maanden |             | € 11250,- |
 
 | ***`Categorie 2`***           | *Celstraf* | *Taakstraf* | *boete*   |
 |-------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**       | 69 maanden |             | € 15000,- |
-| **Tweede Veroordeling**       | 92 maanden |             | € 18750,- |
-| **Meerdere Veroordelingen**   | 122 maanden|             | € 20625,- |
+| **Eerste Veroordeling**       | 50 maanden |             | € 15000,- |
+| **Tweede Veroordeling**       | 60 maanden |             | € 18750,- |
+| **Meerdere Veroordelingen**   | 70 maanden|              | € 20625,- |
 
 ### Artikel V-3 Steek- en slagwapens (27 WWM)
 
@@ -920,15 +910,15 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`Categorie 1 Munitie`***   | *Celstraf* | *Taakstraf* | *boete*  |
 |-------------------------------|------------|-------------|----------|
-| **Eerste Veroordeling**       | 13 maanden |             | € 2550,- |
-| **Tweede Veroordeling**       | 18 maanden |             | € 3563,- |
-| **Meerdere Veroordelingen**   | 24 maanden |             | € 3825,- |
+| **Eerste Veroordeling**       |            |   20 uur    | € 2550,- |
+| **Tweede Veroordeling**       |            |   40 uur    | € 3563,- |
+| **Meerdere Veroordelingen**   | 20 maanden |             | € 3825,- |
 
 | ***`Categorie 2 Munitie`***   | *Celstraf* | *Taakstraf* | *boete*  |
 |-------------------------------|------------|-------------|----------|
-| **Eerste Veroordeling**       | 18 maanden |             | € 5100,- |
-| **Tweede Veroordeling**       | 31 maanden |             | € 6375,- |
-| **Meerdere Veroordelingen**   | 42 maanden |             | € 7013,- |
+| **Eerste Veroordeling**       |            |   30 uur    | € 5100,- |
+| **Tweede Veroordeling**       | 15 maanden |             | € 6375,- |
+| **Meerdere Veroordelingen**   | 25 maanden |             | € 7013,- |
 
 ### Artikel V-7 Vuurwerkbezit
 
