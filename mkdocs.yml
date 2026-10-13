@@ -61,7 +61,7 @@ nav:
   - Risicogebieden: risico-gebieden.md
   - Douanegebieden: douanegebieden.md
   - NOTAM: notam.md
-  - Belastingen: belastingen.md
+  #- Belastingen: belastingen.md
   - Regelement voor de rechtspraak: rechtspraak.md
   - Streamen op Realistiq: streamen.md
   - Kosten:
