@@ -475,9 +475,9 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 |                             | *Celstraf* | *Taakstraf* | *Boete*   | *Rijontzegging* |
 |-----------------------------|------------|-------------|-----------|-----------------|
-| **Eerste Veroordeling**     |            | 38 uur      | € 3000,-  | 24-48 uur       |
-| **Tweede Veroordeling**     |            | 64 uur      | € 7500,-  | 48-72 uur       |
-| **Meerdere Veroordelingen** |            | 85 uur      | € 10250,- | 48-72 uur       |
+| **Eerste Veroordeling**     |            | 20 uur      | € 3000,-  | 24-48 uur       |
+| **Tweede Veroordeling**     |            | 30 uur      | € 7500,-  | 48-72 uur       |
+| **Meerdere Veroordelingen** |            | 40 uur      | € 10250,- | 48-72 uur       |
 
 ### Artikel III-4 Veroorzaken ongeval, met al dan niet licht lichamelijk letsel tot gevolg (6 WVW)
 
@@ -715,19 +715,19 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`201-250 ingrediënten`***    | *Celstraf* | *Taakstraf* | *boete*   |
 |---------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**         | 63 maanden |             | € 8000,-  |
-| **Tweede Veroordeling**         | 72 maanden |             | € 9000,-  |
-| **Meerdere Veroordelingen**     | 81 maanden |             | € 10000,- |
+| **Eerste Veroordeling**         | 60 maanden |             | € 8000,-  |
+| **Tweede Veroordeling**         | 70 maanden |             | € 9000,-  |
+| **Meerdere Veroordelingen**     | 80 maanden |             | € 10000,- |
 
 | ***`ingrediënten`***            | *Celstraf*  | *Taakstraf*| *boete*   |
 |---------------------------------|-------------|------------|-----------|
-| **251-500**                     | 95 maanden  |            | € 10000,- |
-| **501-750**                     | 100 maanden |            | € 11000,- |
-| **751-1000**                    | 110 maanden |            | € 12000,- |
-| **1001-1500**                   | 125 maanden |            | € 15000,- |
-| **1501-2500**                   | 140 maanden |            | € 20000,- |
-| **2501-5000**                   | 165 maanden |            | € 27500,- |
-| **5001 en meer**                | 200 maanden |            | € 35000,- |
+| **251-500**                     | 60 maanden  |            | € 10000,- |
+| **501-750**                     | 80 maanden |            | € 11000,- |
+| **751-1000**                    | 100 maanden |            | € 12000,- |
+| **1001-1500**                   | 110 maanden |            | € 15000,- |
+| **1501-2500**                   | 120 maanden |            | € 20000,- |
+| **2501-5000**                   | 130 maanden |            | € 27500,- |
+| **5001 en meer**                | 150 maanden |            | € 35000,- |
 
 #### Rekentabel Harddrugs: eindproducten
 
@@ -739,25 +739,25 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 
 | ***`6-40 eindproducten`***      | *Celstraf* | *Taakstraf* | *boete*   |
 |---------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**         | 27 maanden |             | €8000,-   |
-| **Tweede Veroordeling**         | 36 maanden |             | €9000,-   |
-| **Meerdere Veroordelingen**     | 54 maanden |             | €10000,-  |
+| **Eerste Veroordeling**         | 25 maanden |             | €8000,-   |
+| **Tweede Veroordeling**         | 30 maanden |             | €9000,-   |
+| **Meerdere Veroordelingen**     | 45 maanden |             | €10000,-  |
 
 | ***`41-50 eindproducten`***     | *Celstraf* | *Taakstraf* | *boete*   |
 |---------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**         | 62 maanden |             | € 11000,- |
-| **Tweede Veroordeling**         | 80 maanden |             | € 12000,- |
-| **Meerdere Veroordelingen**     | 98 maanden |             | € 13000,- |
+| **Eerste Veroordeling**         | 60 maanden |             | € 11000,- |
+| **Tweede Veroordeling**         | 70 maanden |             | € 12000,- |
+| **Meerdere Veroordelingen**     | 80 maanden |             | € 13000,- |
 
 | ***`eindproducten`***            | *Celstraf*  | *Taakstraf* | *boete*   |
 |----------------------------------|-------------|-------------|-----------|
-| **51-100**                       | 125 maanden |             | € 13000,- |
-| **101-150**                      | 135 maanden |             | € 14000,- |
-| **151-250**                      | 145 maanden |             | € 15500,- |
-| **251-500**                      | 160 maanden |             | € 17000,- |
-| **501-1000**                     | 190 maanden |             | € 20000,- |
-| **1001-2500**                    | 220 maanden |             | € 30000,- |
-| **2501 en meer**                 | 275 maanden |             | € 45000,- |
+| **51-100**                       | 90 maanden |             | € 13000,- |
+| **101-150**                      | 100 maanden |             | € 14000,- |
+| **151-250**                      | 110 maanden |             | € 15500,- |
+| **251-500**                      | 120 maanden |             | € 17000,- |
+| **501-1000**                     | 130 maanden |             | € 20000,- |
+| **1001-2500**                    | 140 maanden |             | € 30000,- |
+| **2501 en meer**                 | 160 maanden |             | € 45000,- |
 
 ### Artikel IV-2 Softdrugs (3 OW)
 
@@ -780,60 +780,60 @@ Onder terroristisch misdrijf/daad wordt verstaan het oogmerk om de bevolking of 
 | ***`6-25 ingrediënten`***       | *Celstraf* | *Taakstraf* | *boete*  |
 |---------------------------------|------------|-------------|----------|
 | **Eerste Veroordeling**         |            | 10 uur      | € 500,-  |
-| **Tweede Veroordeling**         |            | 20 uur      | € 1000,- |
-| **Meerdere Veroordelingen**     |            | 30 uur      | € 1500,- |
+| **Tweede Veroordeling**         |            | 15 uur      | € 1000,- |
+| **Meerdere Veroordelingen**     |            | 20 uur      | € 1500,- |
 
 | ***`26-200 ingrediënten`***     | *Celstraf* | *Taakstraf* | *boete*  |
 |---------------------------------|------------|-------------|----------|
-| **Eerste Veroordeling**         |            | 35 uur      | € 2000,- |
-| **Tweede Veroordeling**         |            | 50 uur      | € 3000,- |
-| **Meerdere Veroordelingen**     | 12 maanden |             | € 4000,- |
+| **Eerste Veroordeling**         |            | 20 uur      | € 2000,- |
+| **Tweede Veroordeling**         |            | 30 uur      | € 3000,- |
+| **Meerdere Veroordelingen**     | 6 maanden  |             | € 4000,- |
 
 | ***`201-250> ingrediënten`***   | *Celstraf* | *Taakstraf* | *boete*  |
 |---------------------------------|------------|-------------|----------|
-| **Eerste Veroordeling**         | 27 maanden |             | € 5000,- |
-| **Tweede Veroordeling**         | 40 maanden |             | € 6000,- |
-| **Meerdere Veroordelingen**     | 54 maanden |             | €7000,-  |
+| **Eerste Veroordeling**         | 25 maanden |             | € 5000,- |
+| **Tweede Veroordeling**         | 35 maanden |             | € 6000,- |
+| **Meerdere Veroordelingen**     | 45 maanden |             | € 7000,-  |
 
 | ***`ingrediënten`***            | *Celstraf* | *Taakstraf* | *boete*   |
 |---------------------------------|------------|-------------|-----------|
 | **251-500**                     | 45 maanden |             | € 6750,-  |
-| **501-750**                     | 60 maanden |             | € 7500,-  |
-| **751-1000**                    | 75 maanden |             | € 9000,-  |
-| **1001-1500**                   | 95 maanden |             | € 11500,- |
-| **1501-2500**                   | 120 maanden|             | € 13500,- |
-| **2501-5000**                   | 150 maanden|             | € 17500,- |
-| **5001 en meer**                | 175 maanden|             | € 20000,- |
+| **501-750**                     | 55 maanden |             | € 7500,-  |
+| **751-1000**                    | 65 maanden |             | € 9000,-  |
+| **1001-1500**                   | 75 maanden |             | € 11500,- |
+| **1501-2500**                   | 85 maanden |             | € 13500,- |
+| **2501-5000**                   | 95 maanden |             | € 17500,- |
+| **5001 en meer**                | 110 maanden|             | € 20000,- |
 
 #### Rekentabel Softdrugs: eindproducten
 
 | ***`2-5 eindproducten`***       | *Celstraf* | *Taakstraf* | *boete*  |
 |---------------------------------|------------|-------------|----------|
 | **Eerste Veroordeling**         |            | 10 uur      | € 2000,- |
-| **Tweede Veroordeling**         |            | 20 uur      | € 3000,- |
-| **Meerdere Veroordelingen**     |            | 30 uur      | € 4000,- |
+| **Tweede Veroordeling**         |            | 17 uur      | € 3000,- |
+| **Meerdere Veroordelingen**     |            | 25 uur      | € 4000,- |
 
 | ***`6-40 eindproducten`***      | *Celstraf* | *Taakstraf* | *boete*  |
 |---------------------------------|------------|-------------|----------|
-| **Eerste Veroordeling**         |            | 40 uur      | € 5000,- |
-| **Tweede Veroordeling**         | 18 maanden |             | € 6000,- |
-| **Meerdere Veroordelingen**     | 45 maanden |             | € 7000,- |
+| **Eerste Veroordeling**         |            | 20 uur      | € 5000,- |
+| **Tweede Veroordeling**         | 12 maanden |             | € 6000,- |
+| **Meerdere Veroordelingen**     | 25 maanden |             | € 7000,- |
 
 | ***`41-50 eindproducten`***     | *Celstraf* | *Taakstraf* | *boete*   |
 |---------------------------------|------------|-------------|-----------|
-| **Eerste Veroordeling**         | 50 maanden |             | € 8000,-  |
-| **Tweede Veroordeling**         | 54 maanden |             | € 9000,-  |
-| **Meerdere Veroordelingen**     | 63 maanden |             | € 10000,- |
+| **Eerste Veroordeling**         | 30 maanden |             | € 8000,-  |
+| **Tweede Veroordeling**         | 37 maanden |             | € 9000,-  |
+| **Meerdere Veroordelingen**     | 45 maanden |             | € 10000,- |
 
 | ***`eindproducten`***           | *Celstraf*  | *Taakstraf*| *boete*   |
 |---------------------------------|-------------|------------|-----------|
-| **51-100**                      | 60 maanden  |            | € 9500,-  |
-| **101-150**                     | 70 maanden  |            | € 10500,- |
-| **151-250**                     | 80 maanden  |            | € 11500,- |
-| **251-500**                     | 100 maanden |            | € 15000,- |
-| **501-1000**                    | 125 maanden |            | € 19500,- |
-| **1001-2500**                   | 160 maanden |            | € 25000,- |
-| **2501 en meer**                | 190 maanden |            | € 30000,- |
+| **51-100**                      | 30 maanden  |            | € 9500,-  |
+| **101-150**                     | 40 maanden  |            | € 10500,- |
+| **151-250**                     | 50 maanden  |            | € 11500,- |
+| **251-500**                     | 60 maanden  |            | € 15000,- |
+| **501-1000**                    | 70 maanden  |            | € 19500,- |
+| **1001-2500**                   | 80 maanden  |            | € 25000,- |
+| **2501 en meer**                | 90 maanden  |            | € 30000,- |
 
 ## Titel V - Wet Wapens en Munitie
 
