@@ -256,8 +256,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ### **Artikel 15 - Talen in de stad**
 
 1. De voertalen op Realistiq zijn **Nederlands** en **Engels**.
-2. Andere talen mogen niet provocerend of beledigend worden gebruikt tijdens roleplay.
-3. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
+2. Tijdens gesprekken met staff of overheidsfunctionarissen moet Nederlands worden gesproken. Als een persoon geen Nederlands spreekt, moet er iemand aanwezig zijn die namens hem in het Nederlands communiceert.
 
 → **Sanctie:** Personen die geen Nederlands of Engels spreken, zijn niet welkom op de server. Wanneer er een provocerend of beledigend taalgebruik wordt gebruikt kan dit resulteren sanctie categorie 2.
 
@@ -285,15 +284,11 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 ---
 
 ### **Artikel 18 - Voertuighandelaar / Voertuigmeetings**
-
-1. Een voertuigdealer mag alleen bestaan met goedkeuring van het Bedrijfsregister.
-2. Regels voor voertuighandelaren:
+1. Regels voor voertuighandelaren:
     * Maximaal **15 voertuigen** in de “showroom”;
-    * Alleen op een door het Bedrijfsregister goedgekeurde locatie;
-    * Officiële vergunningen vereist, ondertekend door een lid het Bedrijfsregister.
-3. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
+2. Bij voertuigmeetings mogen maximaal **20 voertuigen** aanwezig zijn.
 
-→ **Sanctie:** Categorie 1. Het Bedrijfsregister wordt ook geïnformeerd.
+→ **Sanctie:** Categorie 1.
 
 ---
 
@@ -320,9 +315,9 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 → **Sanctie:**
 
-* **Eerste overtreding:** Twee weken ban.
-* **Tweede overtreding:** Drie maanden ban.
-* **Derde overtreding:** Permanente ban.
+* **Eerste overtreding:** 3 dagen ban.
+* **Tweede overtreding:** 1 week ban.
+* **Derde overtreding:** 1 maand ban.
 
 ---
 
@@ -340,14 +335,14 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 3. Het is de verantwoordelijkheid van de koper om te controleren of aanpassingen (zoals tunes) op een voertuig aanwezig zijn bij overdracht.
 4. Counteren van een overval/gijzeling is verboden zodra de politie ter plaatse is. Het is daarbij niet toegestaan om aanwezige agenten te gijzelen of weg te lokken met als doel te claimen dat er “geen politie meer aanwezig” is om zo alsnog te kunnen counteren.
    * Uitzondering: Dit is toegestaan wanneer een persoon een ongeplande gijzeling start, terwijl je daarvoor al in een scenario zat met de desbetreffende crimineel. Je mag de crimineel dan counteren op het moment dat hij de politie is kwijtgeraakt na een achtervolging. Denk hierbij aan een straatgijzeling van de politie en/of burgers.
-5. Wapens, drugs, en gijzelingen in appartementen zijn verboden.
+5. Schieten wapen wapens en gijzelingen in appartementen zijn verboden.
 6. Na een overval/oplichting mag je het slachtoffer niet vermoorden, zelfs niet om de gebeurtenis te laten vergeten.
 7. Wanneer jij hebt waargenomen dat personen bezig zijn met criminele activiteiten heb jij de volgende tijden te respecteren om ze nog te overvallen en/of oplichten:
-   * Hetzelfde voertuig met de juiste kleur: 15 minuten;
-   * Zelfde kenteken: 1 uur;
-   * Persoonsherkenning: 2 uren;
-   * Uiterlijke herkenning: 30 min
-8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
+    * Hetzelfde voertuig met de juiste kleur: 15 minuten;
+    * Zelfde kenteken: 1 uur;
+    * Persoonsherkenning: 2 uren;
+    * Uiterlijke herkenning: 30 min
+8. Indien je aan het overladen, kloppen of illegale substanties aan het vervoeren bent moet je altijd een prop of animatie zien. Indien de prop niet zichtbaar is, heb je dus foutief gehandeld.
 9. Het kopen van goederen/items bij Ammunation wordt niet beschouwd als een illegale activiteit. Het is niet toegestaan dit als aanleiding te gebruiken voor een overval of controle.
 
 Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
