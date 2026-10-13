@@ -356,10 +356,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 *Onder ambtenaar wordt verstaan spelers die één van de volgende banen uitvoeren, zoals weergegeven in het F10-menu:*
 
 * **Politie**
-* **Justitie**
 * **Ambulance**
-* **RQ Wegenwacht**
-* **Handhaving**
+* **Pechhulp**
 
 <!-- Kaas saak -->
 
