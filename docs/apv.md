@@ -323,7 +323,7 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
 
 ### **Artikel 21 - Overvallen & Oplichten**
 
-1. Het overvallen of oplichten van personen is alleen toegestaan wanneer zij bezig zijn met criminele activiteiten.
+1. Het overvallen of oplichten van personen is alleen toegestaan wanneer zij bezig zijn met criminele activiteiten of als een persoon een masker( met uitzondering van een helm als een persoon op een motorvoertuig rijd ), body armor of holster draagt.
     * Uitzondering: Bij gebruik van alle soorten wapens mag er altijd worden overvallen.
 2. De volgende situaties zijn verboden voor overvallen/oplichten:
     * Bankgeld of loodsen;
@@ -359,8 +359,6 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 * **Ambulance**
 * **Pechhulp**
 
-<!-- Kaas saak -->
-
 1. Voor een ambtenaar is het niet toegestaan zich bezig te houden met illegale bezigheden.
 2. Het is niet toegestaan om door de politie in beslag genomen objecten door te handelen naar spelers. Dit geldt ook voor andere overheidsobjecten en informatie verkregen tijdens de carrière bij een overheidsdienst, ook na ontslag.
 **Uitzondering:** Politiemedewerkers met een speciale vergunning mogen hun dienstwapens buiten dienst behouden.
@@ -372,25 +370,23 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 ### **Artikel 23 - Gedrag tegen overheidsmedewerkers**
 
 1. Meldingen naar een overheidsinstantie moeten realistisch en uitgebreid zijn; valse meldingen zijn verboden.
-2. Roleplay met RQ Wegenwacht en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
+2. Roleplay met pechhulp en Ambulance moet realistisch en uitgebreid zijn. Medewerkers zijn altijd leidend in de roleplay.
 3. Het maken van een melding om een overheidsmedewerkers te vermoorden, ontvoeren of overvallen is niet toegestaan.
 4. Er moeten altijd minstens vijf overheidsmedewerkers beschikbaar blijven na een ontvoering uitgezonderd zijn de Justitie medewerkers.
 5. Ambulanciers mogen vanaf vier aanwezige collega's ontvoerd worden door criminele organisaties, mits de roleplay goed wordt uitgevoerd en het enkel voor de eigen groep is.
-6. Het is toegestaan een agent te ontvoeren om een voertuig uit de opslag te halen, mits het openstaande bedrag wordt voldaan. Dit mag niet tussen 00:00 en 10:00 uur.
-
-→ **Sanctie:** Categorie 5, bij herhaling categorie 6.
+→ **Sanctie:** Categorie 4, bij herhaling categorie 5.
 
 ---
 
 ### **Artikel 24 - Roleplay & Ledenaantal Criminele Organisaties**
 
-1. Criminele organisaties mogen maximaal 20 leden hebben, naast de 20 leden maximaal 2 meelopers.
+1. Criminele organisaties mogen maximaal 15 leden hebben, naast de 15 leden maximaal 2 meelopers.
 2. Samenwerking tussen criminele organisaties is toegestaan met maximaal 2 gangs, met een totaal van maximaal 6 leden van beide gangs samen. Mits als doelstelling hier een roleplay aan gekoppeld is. (niet voor het opzoeken van actie zoals jagen, rippen of vergelijkbare situaties).
-3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 25 personen.
+3. Politie-invallen mogen worden gecounterd door maximaal twee groepen met in totaal 20 personen.
 4. Samenwerkingen tussen officiële organisaties moeten worden gemeld via het daarvoor bestemde kanaal in de Discord.
 5. Bij negatieve uitstraling van de organisatie (denk daarbij aan warns / combatgedrag ect.) kunnen sancties volgen.
 
-→ **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
+→ **Sanctie:** Sanctie door Crimineel Aanspreekpunt, mogelijk opschorting van de organisatie.
 
 ---
 
@@ -399,7 +395,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Ontsnappen is toegestaan mits gekoppeld aan een geldig roleplay-scenario, beoordeeld door een stafflid.
 2. Ontsnappen is niet toegestaan tijdens afgesproken pauzes in roleplay.
 3. Ontsnappen is verboden tussen 01:30 en 10:00 uur.
-4. Er moeten minstens 10 politiemedewerkers aanwezig zijn.
+4. Er moeten minstens 5 politiemedewerkers aanwezig zijn.
 
 → **Sanctie:** Categorie 1.
 
@@ -424,7 +420,7 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
     * Indien de persoon dood is gegaan in een scenario waarbij de politie betrokken is geldt de New Life rule niet meer. De huiszoeking gaat dan alsnog plaatsvinden.
     * Je kan geen spullen pakken/verwijderen uit auto's en appartementen. Dit geldt ook voor kleding verwijderen.
 
-10. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en casinoheist.
+10. Dertig minuten voor een herstart mag je geen overvallen doen van locaties. Denk hierbij aan: winkels, banken en juwelier.
 
 **Sanctie:** Categorie 1.
 
@@ -443,9 +439,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ### **Artikel 28 - Stemherkenning**
 
-1. Het is toegestaan om een speler te herkennen aan zijn/haar/de stem, tenzij je hem/haar/het totaal niet kent. Indien hierom gevraagd word, dien je dit aan te kunnen tonen.
-2. Indien de speler duidelijk moeite doet om zijn stem te vervormen, dan is het niet toegestaan om een speler aan zijn/haar/de stem te herkennen.
-3. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
+1. Het is niet toegestaan om een speler te herkennen aan zijn/haar stem.
+2. Het is toegestaan om gebruik te maken van externe software om je stem te vervormen gedurende het uitvoeren van criminele activiteiten, echter dient dit realistisch te blijven.
 
 → **Sanctie:** Categorie 1.
 
@@ -477,9 +472,8 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 1. Het misleiden of bedriegen met betrekking tot loodsen is verboden.
 2. De verhuur van sleutels voor loodsen is toegestaan.
 3. Het verhandelen van aandelen in loodsen is toegestaan.
-4. Alle overeenkomsten met betrekking tot loodsen moeten schriftelijk worden vastgelegd en gedocumenteerd in de stad Realistiq met het commando /docu, en dienen te worden ondertekend door alle betrokken partijen.
-5. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
-6. Indien een loods minimaal 120 dagen inactief is, kan SA+ deze loods opnieuw beschikbaar maken voor het publiek.
+4. In geval van onduidelijkheid over de bepalingen van lid 2 of 3, zal het oordeel van een staflid leidend zijn, en dit staflid zal beslissen over de verdeling van de loods. De partij die beweert benadeeld te zijn, dient bewijsmateriaal te overleggen en draagt de verantwoordelijkheid voor de bewijslast.
+5. Indien een loods minimaal 120 dagen inactief is, kan Super Admin of hoger deze loods opnieuw beschikbaar maken voor het publiek.
 
 → **Sanctie:** Categorie 3. Indien de overtreding over bedragen boven de 2 miljoen gaat, zal er gestraft worden volgens categorie 5.
 
@@ -530,36 +524,11 @@ Uitzondering kan gegeven worden door het Crimineel Aanspreekpunt.
 
 ---
 
-## **Narcopolis**
+### **Artikel 36 - Schieten van uit een voertuig**
 
-Onderstaande regels zijn er alleen op Narcopolis
-
-### **Artikel N-1 - Schieten vanaf het vasteland en water**
-
-1. Het is verboden om vanaf het vaste land op de patrouillerende schepen of heli's te schieten.
-2. Het is voor de Politie verboden om op het vasteland te schieten.
-3. Er mag op binnenkomende vluchten en schepen geschoten worden, die niet afkomstig zijn van de Politie.
-
-→ **Sanctie:** Categorie 1.
-
----
-
-### **Artikel N-2 - Inladen van helikopers/vliegtuigen**
-
-1. Wanneer jij drugs wilt inladen in een luchtvaartuig, moet het luchtvaartuig buiten een straal van 30 meter van de pluk staan.
-2. De Sea sparrow, Sea Breeze en Dodo mag wel volgeladen worden op open water.
-3. De Kleine eilandjes rondom Narcopolis zijn eveneens uitgezonderd van deze regel.
-4. Uitzondering als het gaat om het overladen van een eindproduct.
-
-→ **Sanctie:** Categorie 1.
-
----
-
-### **Artikel N-3 - Samenwerking criminele organisaties**
-
-1. Op Narcopolis is het voor een criminele groep niet toegestaan om samen te werken met een andere criminele groep of persoon.
-2. Uitzondering op lid 1 is er voor het kopen en verkopen van drugs. Dit mag wel gedaan worden op het eiland tussen verschillende groepen en personen.
-
+1. Het is verboden voor de bestuurder om van uit een voertuig een vuurwapen af te vuren.
+2. Het is niet toegestaan voor de noodhulp van de politie om vanuit voertuigen te schieten, de Dienst Speciale Interventies mag dit echter wel als hun zelf beschoten worden vanuit een voertuig.
+3. Het is niet toegestaan om vanuit een voertuig op de reguliere politie voertuigen te schieten, het is wel toegestaan om vanuit een voertuig op DSI, Recherche of andere politie neventaken te schieten.
 → **Sanctie:** Categorie 1.
 
 ---
@@ -581,7 +550,7 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 6. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 7. Het is niet toegestaan om een voertuig in beslag te nemen van iemand die overleden is in het scenario.
 
-→ **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
+→ **Sanctie:** Sanctie door Crimineel Aanspreekpunt, mogelijk opschorting van de organisatie.
 
 ---
 
@@ -592,12 +561,8 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 2. Het in beslag nemen van een voertuig door een officiële gang hoort met goede of langdurige roleplay te gebeuren, en niet met de intentie om geld te verdienen.
 3. Wanneer er twee weken lang geen roleplay aan de inbeslagname gebonden wordt, is het toegestaan om het voertuig weer gratis uit de garage te halen.
 4. Het confisqueren van items, wapens en geld van een speler is alleen toegestaan als hier een roleplay aan is verbonden. Het confisqueren van overheids objecten is niet toegestaan.
-5. De wapens uit "Wapenwinkel Verkoop" mogen niet gebruikt worden door de groepering zelf en ze mogen niet met winst verkocht worden.
-6. Als officiële ben je verplicht om een logging bij te houden voor de wapens die verkocht worden uit "Wapenwinkel Verkoop". Hier moet duidelijk in staan naar welke groep / persoon dit gaat.
-7. Als crimineel moet je na het rippen van een wapen, dit loggen en minimaal 168 uur (7 dagen) apart houden en mag deze niet verkocht / gebruikt worden.
+6. Als crimineel moet je na het rippen van een wapen, dit loggen en minimaal 168 uur (7 dagen) apart houden en mag deze niet verkocht / gebruikt worden.
    * **Uitzondering** Indien je nog in hetzelfde scenario zit en je hebt geen mogelijkheid gehad om het wapen veilig te leggen, mag je deze wel gebruiken.
-8. Een officiële gang mag zijn/haar wapen inkoop niet door verkopen aan andere spelers.
-   * **Uitzondering:** Indien de wapens ingekocht zijn in "Wapenwinkel Verkoop" mogen deze wel verkocht worden.
 
 → **Sanctie:** Sanctie door CA, mogelijk opschorting van de organisatie.
 
@@ -634,9 +599,8 @@ Het overtreden van de onderstaande regels zullen resulteren in sancties voor de 
 * Het is verboden op alt accounts geld of wat voor materieel dan ook uit te wisselen
 * Het is verboden met voertuigen gebouwen in te rijden.
 * Onder de AFK-kick proberen uit te komen is verboden.
-* Ben je als agent niet in game, mag je niet deelnemen aan een overval.
 * Wanneer je wordt vermoord door een rivaliserende gang mag je 24 uur niet deelnemen aan eventuele wraakacties of roleplay richting een andere gang.
-* Het is verboden een ambulancier of een medewerker van de RQ Wegenwacht te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
+* Het is verboden een ambulancier of een medewerker van de pechhulp te vermoorden of te ontvoeren bij een oproep of gebruik van hen.
 
 ---
 
@@ -652,4 +616,4 @@ Het doel van deze samenwerking is [korte omschrijving van de samenwerking].
 ```
 
 ---
-APV opgesteld uit naam van de Hoge Raad, bedoeld voor het eiland, de gemeente en de stad “Realistiq”.
+APV opgesteld uit naam van Beheer, bedoeld voor de gemeente en de stad “Realistiq”.
