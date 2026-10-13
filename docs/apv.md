@@ -1,33 +1,5 @@
 # Algemene Plaatselijke Verordening Realistiq
 
-## Wetstechnische informatie
-
-### Wet van 25 september 2026
-
-Wij, de Hoge Raad der Realistiq, bij de gratie Gods, enz., enz., enz.
-
-Allen die deze zullen zien of horen lezen, salut! doen te weten:
-
-Aangezien wij in overweging hebben genomen dat het noodzakelijk is een nieuwe **Algemene Plaatselijke Verordening Realistiq (APV)** vast te stellen:
-
-**Zo is het dat wij, de staff der Realistiq, gehoord en met gemeen overleg van de Hoge Raad, hebben goedgevonden en verstaan, gelijk wij goedvinden en verstaan bij deze, vast te stellen de navolgende bepalingen, welke zullen uitmaken de Algemene Plaatselijke Verordening Realistiq.**
-
-| **Kenmerk**             | **Details**                                    |
-|-------------------------|------------------------------------------------|
-| Overheidsorganisatie    | Staff der Realistiq                           |
-| Officiële naam regeling | Algemene Plaatselijke Verordening Realistiq   |
-| Citeertitel             | Algemene Plaatselijke Verordening Realistiq   |
-| Vastgesteld door        | De Hoge Raad                                   |
-| Onderwerp               | Openbare orde en veiligheid                    |
-
----
-
-### Opmerkingen met betrekking tot de verordening
-
-Het Wetboek van Strafrecht, specifiek bedoeld voor Realistiq, wordt hierbij overschreven door deze APV.
-
----
-
 ## Algemene Bepalingen
 
 ### **A-1 - Reikwijdte**
