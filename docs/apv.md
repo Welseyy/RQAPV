@@ -101,7 +101,7 @@ Het zogenaamde "counteren" tijdens een politieachtervolging, oftewel het bemoeie
 
 1. Indien een karakter overlijdt, wordt verwacht dat hij/zij/het de laatste roleplay vergeet. Het karakter mag niet terugkeren naar het gebied waar hij/zij/het is overleden. Dit gebied wordt aangeduid met een rode cirkel op de kaart en is verboden terrein gedurende **15 minuten** na het overlijden. Tevens mag het karakter zich niet opnieuw bemoeien met hetzelfde scenario totdat dit volledig is afgerond.
 
-→ **Sanctie:** Categorie 4.
+→ **Sanctie:** Categorie 2.
 
 ---
 
