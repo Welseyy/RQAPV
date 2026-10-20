@@ -199,8 +199,12 @@ In alle andere gevallen, zoals wanneer het mêlee-wapen zich buiten armlengte be
     * Mod menu software.
     * Crosshairs.
     * Fivem Mod RPF files die je een oneerlijk voordeel geeft tegenover andere spelers (zoals geen bosjes, bullet penetration, etc.).
+3. Bij het proberen/uitvoeren van triggers of andere exploits om oneerlijk geld, wapens, voertuigen of andere waarde oneerlijk te verkrijgen, zal er een accountwipe worden uitgevoerd op je account.
 
-→ **Sanctie:** Categorie 7.
+→ **Sanctie:**
+→ Eerste keer: 60 dagen ban.
+→ Tweede keer: 90 dagen ban.
+→ Derde keer: Sanctie van Categorie 7.
 
 ---
 
